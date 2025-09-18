@@ -1,15 +1,17 @@
 # AgusPlaywrightTesting
 Test Practice in Playwright
-Precondition
+Self taught learning Playwright from an 8 hour YouTube course - https://www.youtube.com/watch?v=pq20Gd4LXeI
+
+Precondition: 
   Node 14+ above should be installed
 
   Clone above repo
   git clone https://github.com/aguscoma/AgusPlaywrightTesting.git
 
-  Execute below command
+  Execute following command: 
   npm install
 
-  To execute test
+  To execute test: 
   npx playwright ./test/<filename>
 
   
